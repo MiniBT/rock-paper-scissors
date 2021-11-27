@@ -1,0 +1,1 @@
+This is the first javascript project for The Odin Project. The project is creating a javascript file that will play "Rock, Paper, Scissors" 5 times. This project utilizes basic function creation as well as if statements.
